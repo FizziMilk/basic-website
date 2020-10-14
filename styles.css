@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'SourceCodePro';
+    font-family: 'Source Code Pro';
     src: url('fonts/sourcecodepro-bold-webfont.woff2') format('woff2'),
          url('fonts/sourcecodepro-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
-    font-family: 'SourceCodePro';
+    font-family: 'Source Code Pro';
     src: url('fonts/sourcecodepro-italic-webfont.woff2') format('woff2'),
          url('fonts/sourcecodepro-italic-webfont.woff') format('woff');
     font-weight: normal;
@@ -14,7 +14,7 @@
 
 }
 @font-face {
-    font-family: 'SourceCodePro';
+    font-family: 'Source Code Pro';
     src: url('fonts/sourcecodepro-regular-webfont.woff2') format('woff2'),
          url('fonts/sourcecodepro-regular-webfont.woff') format('woff');
     font-weight: normal;
