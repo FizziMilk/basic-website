@@ -151,6 +151,7 @@ background-color: #2d5dcc;
 .heading-description{
   font-family: "Nunito Sans";
   font-size: 18px;
+  line-height: 1.2;
 }
 .body-description{
   width:32%
